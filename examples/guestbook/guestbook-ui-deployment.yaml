@@ -17,4 +17,4 @@ spec:
         - image: docker.io/otrofox/flask-docker:1.0
           name: guestbook-ui
           ports:
-            - containerPort: 8000
+            - containerPort: 5000
